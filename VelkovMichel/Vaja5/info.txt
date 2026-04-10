@@ -1,6 +1,0 @@
-Vaja 5 - TODO
-
-1. S3 bucket za static website (dokaz: screenshoti).
-2. S3 policy za javni dostop do objektov.
-3. Povezava s Cyberduck na isti S3 bucket (dokaz: screenshoti).
-4. Izpolnjen kviz v datoteki CLoudCOmputingKvizVelkovMichel.txt.
